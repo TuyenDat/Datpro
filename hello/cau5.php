@@ -1,4 +1,4 @@
-<?php require 'data.php' ?>
+<?php require 'data.php'?>
 
 <html>
 <head>
